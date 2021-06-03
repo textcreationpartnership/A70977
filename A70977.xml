@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Acts of sederunt of the Lords of the session, past since February 1681</title>
+            <author>Scotland. Court of Session.</author>
+         </titleStmt>
+         <extent>Approx. 86KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70977</idno><idno type="EEBO-CITATION">99835180</idno>
+  <idno type="VID">39845</idno>
+  <idno type="EEBO-PROQUEST">2264177765</idno>
+  
+            <idno type="STC">Wing S1371F</idno>
+            <idno type="STC">ESTC R34035</idno>
+            <idno type="PROQUEST">99835180</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99835180e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39845)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1047:20, 1898:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Acts of sederunt of the Lords of the session, past since February 1681</title>
+                  <author>Scotland. Court of Session.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, printer to Their most Excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>anno Dom. 1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Identified as Wing S1171 (cancelled in Wing (CD-ROM, 1996)) on reel 1047.</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery (reel 1047), and the Harvard University Law Library (reel 1898).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39845:1"/>
+            <p>ACTS OF SEDERUNT OF THE LORDS OF THE SESSION, Past since February 1681.</p>
+            <figure>
+               <head>NEMO ME IMPUNE LACESSET</head>
+            </figure>
+            <p>
+               <hi>EDINBƲRGH,</hi> Printed by the Heir of <hi>Andrew Anderson,</hi> Printer to Their most Excellent Majesties, <hi>Anno DOM.</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:39845:2"/>
+            <pb n="3" facs="tcp:39845:2"/>
+            <head>ACTS of SEDERUNT OF THE LORDS of the SESSION, Past since <hi>February,</hi> 1681.</head>
+            <div type="act">
+               <head>
+                  <hi>ACT,</hi> allowing all persons to sell Flesh in <hi>Edinburgh</hi> on the Mercat-dayes. <hi>February 17. 1682.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Lords of Council and Session Considering, That by the 122 <hi>Act</hi> of the seventh <hi>Parliament</hi> of King <hi>James</hi> the 5th. <hi>It is Statute and Ordained, That upon the three Mercat days weekly, all manner of persons, both to Burgh and Landward, shall be free to come and sell Flesh in the Town of</hi> Edinburgh, <hi>for the fur<g ref="char:EOLhyphen"/>nishing of Our Soveraign Lord, and his Leidges, and others re<g ref="char:EOLhyphen"/>pairing to the said Town;</hi> And it being the general concern of all his Maje<g ref="char:EOLhyphen"/>sties Subjects, who have occasion to resort to, and reside in the said Town, attending the Supream Judicatories of the Kingdom, that so just and ne<g ref="char:EOLhyphen"/>cessary an Act be duly observed; and that some persons upon pretence of Priviledge or Custom, may not take on them to have the only Right to sell Beeff, or other Boutcher Flesh in the said Burgh, excluding others, and thereby exact exorbitant rates at their pleasure: Therefore the Lords of Coun<g ref="char:EOLhyphen"/>cil and Session, in pursuance of the said Act of Parliament, Do Require the Magistrats of <hi>Edinburgh,</hi> to take care, that in time coming, all persons whatsoever be allowed liberty and freedom upon the ordinary Flesh mercat dayes each Week, <hi>viz. Tuesday, Thursday</hi> and <hi>Saturday,</hi> to bring in to the Town of <hi>Edinburgh,</hi> Beeff, and all other Boutcher-flesh, and to sell the same in the Mercats, in the same manner, during the same space, and as freely in all respects, as the Fleshers Burgesses of the said Burgh, and of other Royal Burghs within this Kingdom, are in use to do; and that the Magistrats al<g ref="char:EOLhyphen"/>locat to the saids persons, convenient places in the Mercat, where they may be accommodat with Shambles, Stocks and Stands, for breaking out, and sel<g ref="char:EOLhyphen"/>ling of the Fleshes brought in by them: And to the effect this may be made publickly known, the saids Lords appoints the Magistrats of the said Burgh, to issue a Proclamation conform to this Act, and to cause Print and Publish the same, in the usual manner, betwixt and the twenty two day of <hi>February</hi> instant, and to be careful that due obedience be given thereto, as they will be answerable.</p>
+            </div>
+            <div type="act">
+               <head>ACT, concerning the passing of Bills of Suspension upon Juratory Caution <hi>November 8. 1682.</hi>
+               </head>
+               <p>THe Lords of Council and Session Considering, the inconveniencies that may ensue from the frequent passing of Bills of Suspension upon Jura<g ref="char:EOLhyphen"/>tory
+<pb n="4" facs="tcp:39845:3"/> Caution, The Chargers for the most part, having no notice, that they might object against the same: For preventing whereof, the Lords do Or<g ref="char:EOLhyphen"/>dain, that in time coming, when any person is to give in a Bill of Suspensi<g ref="char:EOLhyphen"/>on, that he cause a Notar make previous Intimation thereof, (bearing the particular day) before Witnesses, to the Party Charger personally, or at his Dwelling-place, if he be within the Kingdom, and that the Instrument of In<g ref="char:EOLhyphen"/>timation be produced with the Bill, and that the Bill be given in to the Clerk within six days, after the day mentioned in the Instrument, otherways that a new Instrument be taken before the Bill be presented, and that the Ordi<g ref="char:EOLhyphen"/>nary on the Bills, in time of Session, before Reporting the Bill, containing Caution; and the three Lords Ordinars, in time of Vacance, before pas<g ref="char:EOLhyphen"/>ing such Bills, cause publickly call the Chargers, against whom the saids In<g ref="char:EOLhyphen"/>struments are produced; And the Lords do Ordain, that the Suspender shall Depone, whether he hath Lands in Property, or Liferent, or Bonds, Tickets or Contracts, containing sums of Money; and in case he acknowledge the same, that he condescend thereon, and Depone that he has no other Lands belonging to him, nor Bonds, Tickets, or Contracts, containing sums of Money, and that this be a part of his written Oath; And that the said Sus<g ref="char:EOLhyphen"/>penders, before expeding of the Bills, shall Consign in the hands of the Clerk of the Bills, valid and sufficient Dispositions, or Assignations (at the sight and appointment of the Lord Ordinar) of the saids Lands and sums of Mo<g ref="char:EOLhyphen"/>ney. And in respect Parties do always offer sufficient Caution in the Bill of Suspension, to the effect the same may the more easily pass, and thereafter apply for a Supplement; whereas, if the Ordinary who past the Bill, had been acquainted, that sufficient Caution was not to be given, he would have been more strict in finding the Reasons relevant, for passing the same; There<g ref="char:EOLhyphen"/>fore the Lords do Ordain, that no Bills of Suspension, bearing offer of suf<g ref="char:EOLhyphen"/>ficient Caution, shall be expede upon Juratory Caution; But that the Par<g ref="char:EOLhyphen"/>ty Suspender shall give in his Bill, bearing, <hi>Juratory Caution,</hi> and that the Ordinary may consider the Reasons, with respect to the Juratory Caution, as if the former Bill containing the same Reasons had not been past: And the Lords Discharges the taking of Oaths in supplement by Commission; And finds that the Suspender must compear and Depone before the Ordinary on the Bills, and that no Charge to set at Liberty be past upon Juratory Cau<g ref="char:EOLhyphen"/>tion.</p>
+            </div>
+            <div type="act">
+               <head>ACT, ordaining the Clerks of Session to take Bond of their Servants, not to A<g ref="char:EOLhyphen"/>gent in Processes. <hi>November 28. 1682.</hi>
+               </head>
+               <p>THe Lords of Council and Session Considering, that albeit by the Act of Parliament, concerning the Regulation of Judicatories, It is Ordain<g ref="char:EOLhyphen"/>ed, That all the Agents be debarr'd the House, and not permitted to Ne<g ref="char:EOLhyphen"/>gotiat in, or mannage Processes; And it is recommended to the saids Lords to see the same punctually observed; yet some Servants in the Clerks Cham<g ref="char:EOLhyphen"/>bers, presume to be ordinary Agents for Parties in Processes, which is a di<g ref="char:EOLhyphen"/>rect contravention of the Act of Parliament, and of dangerous consequence, that the Clerks Servants, having under their Masters, the trust and custody of Processes, and of Writs produced therein; and being imployed in Extra<g ref="char:EOLhyphen"/>cting of Acts and Decreets, should be Agents in these Processes: Therefore the saids Lords do Require the Clerks of Session, to cause all their Servants in their respective Offices, give Bond, that during their Service, they shall not Agent in Processes, for any of the Parties, under the pain of an hun<g ref="char:EOLhyphen"/>dred pounds <hi>scots, toties quoties,</hi> to be put in the Box, to be disposed of at sight of the Lords; and that they cause any persons whom they shall hereafter take
+<pb n="5" facs="tcp:39845:3"/> in, to serve them in their Chambers, give the said Bond at their entry; And the Lords recommends to the Lord Register to see this Act put in punctual execution.</p>
+            </div>
+            <div type="act">
+               <head>ACT, concerning Commissions to Sheriffs in that part for giving Infeftment. <hi>January 20. 1683.</hi>
+               </head>
+               <p>THe Lords of Council and Session considering, That His Majesty doth sometimes sustain prejudice by the granting of Commissions to certain persons, as Sheriffs in that part for giving Infeftment, in regard these per<g ref="char:EOLhyphen"/>sons, who ought to receive the Retoured Duties, and be countable for the same, are sometimes insolvent; For remeid whereof, the Lords do Ordain, That any Warrand to be past by them hereafter, to the Director of the Chan<g ref="char:EOLhyphen"/>cellary, for granting a Commission to a Sheriff in that part, for giving In<g ref="char:EOLhyphen"/>feftment, shall contain this Clause, That <hi>before the expeding of the Commission, Caution be found to the Lord Thesaurer, or Thesaurer-deput,</hi> That the Sheriff in that part shall be countable for the Retoured Duties, and that the same be attested under the hand of one of the Clerks of Exchequer, and that the Di<g ref="char:EOLhyphen"/>rector Record the Commission in the Books of the Chancellary.</p>
+            </div>
+            <div type="act">
+               <head>ACT, concerning the payment of the Secretaries Dues, where Reasons of Suspensi<g ref="char:EOLhyphen"/>on are discussed upon the Bill. <hi>November 6. 1683.</hi>
+               </head>
+               <p>THe Lords considering, that by an Act of Sederunt, dated the twenty fourth day of <hi>January,</hi> 1679. It is Ordered that the Lord Secretaries Dues should be payed, where the Reasons of Suspension are by warrand of the Lords discussed upon the Bill, sicklike as if the Suspension had been past and expede at the Signet: And to the end the said Act may be made effectual, The Lords Ordains, that in time coming, when any Warrand shall be given by them, for discussing the Reasons of Suspension upon the Bill, either up<g ref="char:EOLhyphen"/>on Petitions presented to that purpose, or upon Report from the Ordinary upon the Bills, that the Suspender do immediatly make payment of the Se<g ref="char:EOLhyphen"/>cretaries Dues to the Keeper of the Signet, and obtain his Receipt of the same, either upon the back of the Bill, or on a Paper a-part; and if the same be not done before the Bill be called by the Ordinary upon the Bills, the Lords impowers the Ordinary to refuse the Bill of Suspension, and ap<g ref="char:EOLhyphen"/>point the Letters to be put to further execution, notwithstanding of any former Warrand sisting execution, or appointing the Reasons to be discust upon the Bill.</p>
+            </div>
+            <div type="act">
+               <head>Warrand for Letters of Horning for delivery of Consigned Money to the Clerk of the Bills <hi>December 22. 1683.</hi>
+               </head>
+               <p>THe Lords of Council and Session considering, that it is just and rea<g ref="char:EOLhyphen"/>sonable, that any sums of Money which were Consigned in the hands of the Clerk of the Bills for the time, should be transmitted to the present Clerk of the Bills, to be keeped by him, and to be made forthcoming to the respective parties who shall be found to have right thereto: Therefore the saids Lords Ordains Letters of Horning on fifteen dayes to be direct at the Instance of the Lord Register, against any persons now living, who were Clerks to the Bills, and against the Representatives of those who are deceased, Charging them to give up, and deliver to the present Clerk of the Bills, all sums of Money which were Consigned in their hands, during the time of their ex<g ref="char:EOLhyphen"/>ercising the said Office, as the same ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> marked in the Records of the Office,
+<pb n="6" facs="tcp:39845:4"/> and which were not given up again to the Parties, by warrand of the Lords; and ordains these Presents to be insert in the Books of Sederunt.</p>
+            </div>
+            <div type="act">
+               <head>ACT Ratifying the Act of the Faculty of Advocats, anent the payment of Dues by Intrant Advocats. <hi>January 28. 1684.</hi>
+               </head>
+               <p>THE which day, anent the Petition given in to the Lords of Council and Session, by the Dean and Faculty of Advocats, shewing, That where the Lords, by their Act of <hi>Sederunt,</hi> dated the Twenty eighth of <hi>February,</hi> One thousand six hundred sixty two years, did Ordain all Advo<g ref="char:EOLhyphen"/>cats admitted since <hi>January</hi> One thousand six hundred and fourty eight, and deficient in payment of their dues to the Faculty, payable to them for the use of their Poor, and other Publick Affairs, and all who should be admitted thereafter to pay the same; and ordained Letters of Horning and Poynding upon six days to be direct against such Deficients, upon a Subscribed Roll given in by the Thesaurer of the Faculty, &amp; no Suspension to pass thereof, but upon Consignation: And since that time the Faculty having founded a Library for themselves &amp; the Colledge of Justice, which is come a very great length, and doth further intend to erect a profession of Law, and to do several other things towards the advancement of that Study in this Kingdom: They by their Act dated the First day of <hi>January,</hi> One thousand six hundred seventy eight years, unanimously augmented the saids dues upon Intrant Advocats, to five hun<g ref="char:EOLhyphen"/>dred Merks, to be payed by such as should enter in the ordinary way upon Examination, and to a thousand Merks upon such as should importune the Lords to enter by Bill, or any extraordinary manner, which few or none hi<g ref="char:EOLhyphen"/>therto have refused to pay being sensible of the good of so useful a Work. And therefore craving, that the Lords would be pleased, for the encouragement of this honourable and useful design, to Authorize the said Act of the Faculty, and ordain Letters of Horning to pass against all Defici<g ref="char:EOLhyphen"/>ents for the saids Dues, and no Suspension to pass thereof, except upon Con<g ref="char:EOLhyphen"/>signation, as formerly; or otherwise that the Lords would be pleased to or<g ref="char:EOLhyphen"/>dain them to be debarred, ay and while they pay the samen. Which Peti<g ref="char:EOLhyphen"/>tion, and Desire thereof, being Read, Heard, and Considered by the saids Lords; and they being therewith well and ripely advised, The Lords of Council and Session have approven, and hereby approve of the Faculty their erecting of their Bibliotheck, and of their design for establishing a Professor of Law, as a thing useful and expedient for the Colledge of Justice, and profitable for the whole Nation: And for their better encouragement, and enabling them in the prosecution of such a publick and necessary work. The Lords have Ratified and Approven, and hereby Ratifies and Approves, the Act of the Faculty, dated in <hi>January</hi> One thousand six hundred seventy eight, Imposing the Sum of five hundred Merks <hi>Scots</hi> upon all Advocats en<g ref="char:EOLhyphen"/>tering in the ordinary way, by Examination, and the Sum of one thousand Merks upon all such as do enter extraordinarly by Bill, without Examinati<g ref="char:EOLhyphen"/>on, to be payed to the Thesaurer of the Faculty for the time; and have al<g ref="char:EOLhyphen"/>lowed, and hereby allows the said Act to be put in execution against all Ad<g ref="char:EOLhyphen"/>vocats who have entered since the said Act, and have not payed the said Dues, or shall hereafter enter, by debarring of them from their Imployment, as Advocats, ay and while the said Dues be payed; Reserving always to the Lords a power of Modification of the Sum of five hundred Merks, payable by such Advocats, as shall enter upon Examination, where they shall find Cause: And Ordains these presents to be insert in the Books of <hi>Sederunt;</hi> and have Rescinded, and hereby Rescinds all prior Acts of <hi>Sederunt,</hi> that may dero<g ref="char:EOLhyphen"/>gate from the same.</p>
+            </div>
+            <div type="act">
+               <pb n="7" facs="tcp:39845:4"/>
+               <head>ACT concerning Decreets of Adjudication. <hi>February 26. 1684.</hi>
+               </head>
+               <p>THE Lords of Council and Session considering, that by the ninteenth Act of the third Session of his Majesties Second Parliament, con<g ref="char:EOLhyphen"/>cerning Adjudications, it is Statute and Ordained, that in place of Com<g ref="char:EOLhyphen"/>prisings, the Lords of Session, upon Processes raised before them, at the in<g ref="char:EOLhyphen"/>stance of any Creditor against his Debitor, shall Adjudge and Decern to the Creditor, in satisfaction of his Debt, such part of the Debitors Estate, con<g ref="char:EOLhyphen"/>sisting in Lands and other Rights, which were in use to be Apprised, as shall be worth the Principal Sum and Annualrent then resting to the Creditor, and a fifth part more, besides the Composition to the Superior, and Ex<g ref="char:EOLhyphen"/>pences of the Infeftment. Likeas, by the said Act it is provided and de<g ref="char:EOLhyphen"/>clared, That in case the Debitor shall abstract the Writs and Evidents of the Lands, and other Rights to be Adjudged, and shall not produce a suf<g ref="char:EOLhyphen"/>ficient Right thereof, and deliver the same, or Transumpts thereof to the Creditor, as the Lords shall judge necessary; and in case he shall not Re<g ref="char:EOLhyphen"/>nounce the Possession of the Lands, and other Rights to be Adjudged, and Ratifie the Decreet of Adjudication, in that case it shall be leisome to the Creditor to Adjudge all or any Right belonging to his Debitor, in the same manner, as he might have Apprised the same, conform to the Act of Par<g ref="char:EOLhyphen"/>liament 1661. anent the payment of Debts betwixt Debitor and Creditor, in all points, under the Reversion, and with the power competent to other Creditors, exprest in the said Act. And albeit it appears by the foresaid Act of Parliament, that where the Adjudication is special, and proceeds upon Probation of the Rental, and the Debitors production of the Writs, the Decreet ought to be for the Principal Sum, Annualrents thereof, and a fifth part more without the Penalty of the Bond; but where the Adjudica<g ref="char:EOLhyphen"/>tion is general, in absence of the Debitor, without Probation of the Ren<g ref="char:EOLhyphen"/>tal, the Decreet ought to be for the Principal Sum, Annualrent, and Pe<g ref="char:EOLhyphen"/>nalty (if any be) contained in the Bond or other Writ, which is the ground of the Adjudication; yet by mistake of the Clerks and their Servants, some Decreets of Adjudication have been Extracted, Adjudging the Debitors whole Lands, in satisfaction of the Principal Sum, Annualrents, Penalty, and a fifth part more. And the Lords, in some cases which have occurred before them, being unwilling hitherto to annul these Adjudications, have restricted the same to the Principal Sum, Annualrents, and Penalty ac<g ref="char:EOLhyphen"/>cumulat, contained in the Decreet; in regard the style of the Summons, concluding a fifth part more, hath given occasion to the foresaid error; but finding it expedient that the Leidges be in a certainty as to this point for the future, they declare, that if hereafter any Decreets of Adjudication, proceeding without probation of the Rental, and Adjudging the Debitors Estate in general, without restriction, shall be Extracted for a fifth part more, they will not sustain and restrict these Decreets of Adjudication, but will find the same void and null, as if they had never been pronounced. And to the end the Leidges may be certiorat herein, ordains this Act to be published at the Mercat-Cross of <hi>Edinburgh.</hi>
+               </p>
+            </div>
+            <div type="act">
+               <head>His MAJESTIES Warrand, exeeming the Lords of Session from payment of Taxes. <hi>November 19. 1684.</hi>
+               </head>
+               <p>THIS day the Lords ordained a Letter from his Majesty to the Lord High Thesaurer, and Thesaurer-deput, containing a Warrand, dis<g ref="char:EOLhyphen"/>charging the uplifting of Taxes or Supplies from the saids Lords, or their
+<pb n="8" facs="tcp:39845:5"/> Suc<g ref="char:EOLhyphen"/>cessors, to be Recorded in the Books of <hi>Sederunt;</hi> of which Letter the Te<g ref="char:EOLhyphen"/>nor follows.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <signed>
+                           <hi>CHARLES</hi> R.</signed>
+                     </opener>
+                     <p>RIght trusty, and right well beloved Cousin and Counsellor, and right trusty and well beloved Counsellor, We greet you well. Whereas out of a regard to what is earnestly recommended to Us in the Third Act of Our current Parliament of that Our ancient Kingdom, We did, by Our Letter of the 30. day of <hi>December</hi> last by past, discharge you from grant<g ref="char:EOLhyphen"/>ing exemptions to the Lords of Session, and some other persons, from paying their proportions of the Taxations and Supplies, at several times granted unto Us by Our Parliaments and Conventions of Estates of that Our Kingdom, yet finding by a Letter to Us from the Lords of Session, bearing date at <hi>Edinburgh,</hi> the twenty third of <hi>February</hi> last, that their Immunity and Exemption from payment of all Taxes, Contributions, and other extraordinary Charges were secured unto them, by the Law of the Kingdom, at the first Institution of the Colledge of Justice, by the six<g ref="char:EOLhyphen"/>ty eigh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <hi>Act</hi> of the fifth <hi>Parliament</hi> of King <hi>James</hi> the Fifth; and that this Priviledge and Immmunity hath been fully Ratified and Approven, by all Our Royal Predecessors since that time, in most Parliaments; and lastly, by Our Royal Self, in the eight <hi>Act</hi> of the second <hi>Session</hi> of Our second <hi>Parliament,</hi> which states them in a different case from others, to whom We were Graciously pleased, out of Our Royal Bounty, to Grant Exemptions from publick Burdens; We have now thought fit to let you know, That in consideration of the Premisses, and of their eminent Services to Us, and that Our Kingdom, We are Resolved, That their said Immunity and Exem<g ref="char:EOLhyphen"/>ption shall be for the future, as it hath been formerly continued unto them, as being their Right, Established by Law; And therefore We Do hereby Prohibite and Discharge you and your Successors in Office, from suffering any Taxes, Supplyes, Contributions, or other extraordinary Charges, to be uplifted, or called for from any of the saids Lords of Session, or their Successors in that Court, notwithstanding of any Orders formerly Granted by Us (par<g ref="char:EOLhyphen"/>ticularly in Our said Letter, of the thirtieth of <hi>December</hi> last) to the contra<g ref="char:EOLhyphen"/>ry; Provided nevertheless, as it is Our express Will and Pleasure, that no other person or persons whatsoever be freed from any such Taxation, but that on the contrary they be indispensibly lyable to the payment of their proportional shares of all Taxations, Supplies, and other publick Burdens Imposed, or to be imposed by Our Parliaments, or Convention of Estates, upon the rest of Our Subjects of that Our Kingdom, conform to the Intent and Mean<g ref="char:EOLhyphen"/>ing of the said third <hi>Act</hi> of Our Current <hi>Parliament;</hi> For all which this shall be to you, and all others who may be therein respectively concerned, a sufficient Warrand: And so We bid you heartily Farewell. Given at Our Court at <hi>Whitehall</hi> the fifth day of <hi>April</hi> 1683. And of Our Reign, the 35th year. Subscribed thus by His Majesties Command, <hi>Morray.</hi> Which Letter is directed on the back thus, To Our right trusty and right well beloved Cou<g ref="char:EOLhyphen"/>sin and and Counsellor, and Our right trusty and well beloved Counsellor, <hi>William</hi> Marquess of <hi>Queensberry</hi> Our Thesaurer principal, and <hi>John Drummond</hi> of <hi>Lundee,</hi> Our Thesaurer-Deput of Our Antient Kingdom of <hi>Scotland.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="act">
+               <pb n="9" facs="tcp:39845:5"/>
+               <head>ACT, Discharging the Printing of Informations. <hi>January 2. 1685.</hi>
+               </head>
+               <p>THE Lords of Council and Session upon divers good Considerations, Do Prohibite and Discharge Printing of any Informations, or other Pa<g ref="char:EOLhyphen"/>pers relating to Processes intented before them, or any Interlocutors, Acts or Decreets in these Processes; and Discharges all Printers within this King<g ref="char:EOLhyphen"/>dom to receive in any of these Informations, or other Papers above-mention<g ref="char:EOLhyphen"/>ed, to be Printed, without an express Warrand from the saids Lords.</p>
+            </div>
+            <div type="act">
+               <head>WARRAND for Registrating Dispositions of Bankrupts Lands in the Books of Session. <hi>January 10. 1685.</hi>
+               </head>
+               <p>THE which day the Lords ordained the Dispositions to be made of Bankrupts Lands, by these having Commission from them to sell the same, conform to the 17th Act of his Majesties 3d Parliament, in <hi>Anno</hi> 1681. To be Registrat in the Books of Council and Session, by the ordinary Clerks of Session, and appoints a separate Register-Book to be kept in each one of the Clerks Chambers, wherein these Dispositions may be Recorded, with a Minut-Book relating thereto.</p>
+            </div>
+            <div type="act">
+               <head>ACT relating to the Sale of Bankrupts Lands. <hi>March 13. 1685.</hi>
+               </head>
+               <p>FOrasmuch as upon a report made this day to the Lords of Council and Session, by one of their number, of two Dispositions of Sale of Bank<g ref="char:EOLhyphen"/>rupts Lands, granted conform to the Order and Method prescribed by the late Act of Parliament, in the year 1681. That Point did occur to be consider<g ref="char:EOLhyphen"/>ed by them, concerning the oblidgment of Warrandice in the Dispositions to be granted by Creditors of their Rights to the Purchaser: For clearing where<g ref="char:EOLhyphen"/>of, the Lords do Declare, that the Creditors who are preferred to the price of the Lands upon payment, shall be holden to Dispone their Rights and Diligences used at their instances, in favours of the Purchaser, with War<g ref="char:EOLhyphen"/>randice <hi>quoad</hi> the Sums received by them; so that in case of Eviction of the Lands Disponed, they shall be lyable to refound these Sums in whole, or in part, effeiring to the Eviction, and the Sums payed to them, with the An<g ref="char:EOLhyphen"/>nualrent thereof, only from the time of the Sentence; providing always In<g ref="char:EOLhyphen"/>timation be made to the saids Creditors of the Process for Eviction, before Litis-contestation in the Cause; and the Lords Declare this to be the import of any former oblidgments of Warrandice given by Creditors in the case fore<g ref="char:EOLhyphen"/>said.</p>
+            </div>
+            <div type="act">
+               <head>ACT in favours of the Ʋnder-Clerks, anent the payment of their Dues, where Commissions are granted. <hi>November 17. 1685.</hi>
+               </head>
+               <p>THE which day, anent a Petition given in to the Lords of Council and Session, by the Under-Clerks of the Session, mentioning, that where the greatest part of all their trouble and pains, in Processes wherein they are Clerks, is in these that comes the length of Litis-contestation and Probation led therein; and after several Debates, Writing of Minuts, Exten<g ref="char:EOLhyphen"/>ding of Scrolls again and again; all the benefit they can expect for their pains, is by payment for the Depositions of Parties and Witnesses, conform to the Act of Parliament: But when the Lords grants Commission (as is now very frequent) to Examine Parties and Witnesses in the Countrey, the Peti<g ref="char:EOLhyphen"/>tioners get nothing, and are thereby frustrat of all the payment which they expected, and used, to get for their pains: And therefore craving, that
+<pb n="10" facs="tcp:39845:6"/> the Lords would allow the Petitioners the half of the ordinary dues, where Parties and Witnesses are Examined by Commission; whereby they will be encouraged to serve the Lords and the Liedges more chearfully. Which Pe<g ref="char:EOLhyphen"/>tition being considered by the saids Lords, They Found the desire thereof just and reasonable, and do Ordain, that in time coming, when Commissions shall be granted by them, for Examining of Parties, or Witnesses, that the Under-Clerks shall have the half of the ordinary Dues which are payed to them, where Parties and Witnesses do Compear before the Lords, and De<g ref="char:EOLhyphen"/>pone, <hi>viz.</hi> A Merk for each Party, and half a Merk for each Witness Exa<g ref="char:EOLhyphen"/>mined by Commission, to be payed at the return of the Report and Commis<g ref="char:EOLhyphen"/>sion, before an <hi>Avisandum</hi> be put up in the Minut-book. And ordains these presents to be insert in the Books of <hi>Sederunt.</hi>
+               </p>
+            </div>
+            <div type="act">
+               <head>ACT Concerning Processes of <hi>Cessio Bonorum. December 1 1685.</hi>
+               </head>
+               <p>THE Lords of Council and Session taking to their Consideration the abuses which have lately crept in, by the Clandestine calling and car<g ref="char:EOLhyphen"/>rying on of Processes of <hi>Bonorum</hi> in the Outer-house, whereby the same comes not timeously to the knowledge of the Creditors concerned, that they may be heard; and that several persons have procured Decreets of <hi>Bonorum,</hi> who in Law ought not to have the same: For remeid whereof, the Lords do Or<g ref="char:EOLhyphen"/>dain, that in time-coming, after a Summons of <hi>Cessio Bonorum</hi> shall be called by the Clerks in the Outer-house, albeit there be no Compearance at the calling for any of the Creditors, yet the Process shall be Enrolled in the next Weeks Roll for the Outer-house, and a Roll of the names of all the Credi<g ref="char:EOLhyphen"/>tors conveened in that Process affixed on the Wall of the Outer-house, and Ordains, that in the Summons, there be specially Libelled the occasion and way how the Pursuer came to be <hi>lapsus bonis,</hi> and that he adduce Probation, or produce sufficient Instructions or Evidences of the same in the Process: And ordains this Act to be insert in the Acts of <hi>Sederunt.</hi>
+               </p>
+            </div>
+            <div type="act">
+               <head>ACT Declaring the Clerk of the Bills lyable for the Parties Damnage where he refuses a sufficient Cautioner. <hi>February 18, 1686.</hi>
+               </head>
+               <p>THE Lords of Council and Session, considering that Parties may be prejudged, not only by the Clerk of the Bills, his receiving of insolvent Cautioners, but also by his refusing of Cautioners, who are sufficient; therefore they Declare, that the Clerk of the Bills shall be ly<g ref="char:EOLhyphen"/>able for the Parties Damnage, alsewel where he refuses a Cautioner who is sufficient, or is holden and repute to be sufficient, as where he receives an insufficient Cautioner.</p>
+            </div>
+            <div type="act">
+               <head>ACT Concerning the Order of the Lords going to the Side-bar, and Reporting of Causes. <hi>November 4. 1686.</hi>
+               </head>
+               <p>THE Lords of Council and Session, for avoiding Confusion at the Side-bar, do Ordain, that only two Lords in one day, (beside the Ordinary on the Bills) shall go to the Side-bar to call Process, and One of them only at one time, and that in the Order following, <hi>viz.</hi> First, these Two, who were Ordinaries in the Utter-house, the two weeks im<g ref="char:EOLhyphen"/>mediatly preceeding, and the next day, these two, who were immediat<g ref="char:EOLhyphen"/>ly before them, and so forth the rest of the Lords, and that there be no exchange of days among the Lords. And the Clerks are discharged to writ any Minuts, in any Process called at the Side-bar, con<g ref="char:EOLhyphen"/>trair
+<pb n="11" facs="tcp:39845:6"/> to the Order and Regulation above-mentioned, upon pain of Depri<g ref="char:EOLhyphen"/>vation; And likewise, that the Lord, who was Ordinary in the Utter-house, the immediat preceeding week, and no other, without his allow<g ref="char:EOLhyphen"/>ance, may go out to the Bench, in the Utter-house, and from nine a<g ref="char:EOLhyphen"/>clock, untill the Ordinary come out, call any Process, wherein he had formerly pronunced Act, Decreet, Protestation, or Interlocutor; and upon Application of any of the Parties, shall find Cause to hear the same again; Providing always the Party apply within the space of a week, after the pronuncing of the Act, Decreet, Protestation or Interlocutor, after which time, the Lords discharges the Calling or Hearing of the same, either upon the Bench, or at the Side-bar, but leaves the Parties to seek re<g ref="char:EOLhyphen"/>meid by Suspension, or Reduction, as Accords. And to the effect the Parties, and their Procurators may know the particular days of the respective Or<g ref="char:EOLhyphen"/>dinaries weekly, they Ordain the Keeper of the Rolls, for the Utter-house, to affix upon the Wall each Munday weekly, the particular days, and Names of such Lords as are to be Ordinaries, at the Side-bar, the week following. And the Lords discharges the Clerks in the Inner-house to read any Petitions, in relation to any Interlocutors pronunced in the Utter-house, except the Petition bear, that the Party had Applyed to the Ordinary, whom he shall name, and that he had refused to give them the Lords Answer, upon an amaund, conform to the late Act of Parliament, Anent the Regulations; and the Lords Ordain, that in time coming, only two Lords in one day Report Causes, and that they do the same, as they stand in Order, in the Squadrons. And that the Keeper of the Roll, for the Utter-house affix upon the Wall, each Munday, the Names of the Lords, who are to Report Causes that week, and the particular days where<g ref="char:EOLhyphen"/>on they are to Report, and Ordain, that the Informations to be given to the Lords shall mention on the back thereof, by what Lord the Cause is to be Reported.</p>
+            </div>
+            <div type="act">
+               <head>Order Concerning Gratis Warrands. <hi>November 20, 1686.</hi>
+               </head>
+               <p>THE Lords of Council and Session do Ordain, that any Petitions which shall be given in hereafter, by Persons craving the bene<g ref="char:EOLhyphen"/>fit of the Poors Roll, shall condescend upon the Process, wherein they are Pursuers, or Defenders, upon account whereof, they desire that bene<g ref="char:EOLhyphen"/>fite, and that the Warrand for En-rolling them amongst the Poor shall be restricted to these Processes allenarly, and the Warrand to continue only for three years, unless the same be renewed.</p>
+            </div>
+            <div type="act">
+               <head>ACT Anent the Ordering of the Inner-house. <hi>December 16. 1686.</hi>
+               </head>
+               <p>THE Lords of Council and Session considering, that by the ancient Custom, no Persons of whatsoever quality, were permitted to come within the Bar of the Inner-house, during the time of debating Causes, except his Majesties Advocat, the Clerks of Session, the Clerk of the Bills, and his Deput, and one Macer. They do Revive that Cu<g ref="char:EOLhyphen"/>stome, and Ordain the same to be duely observed in time coming, dis<g ref="char:EOLhyphen"/>charging hereby the Macers to permit any Persons, except those above ex<g ref="char:EOLhyphen"/>prest, to come within the said Bar, as they will be answerable on their per<g ref="char:EOLhyphen"/>ril. And in case any Person be desirous to speak with any of the Lords, while they are upon the Bench, that he call for a Macer at the Door, and give notice thereof by him; It is always hereby Declared, that the
+<pb n="12" facs="tcp:39845:7"/> Lord Thesaurer, and Thesaurer Deput, or the Commissioners of His Majesti<g ref="char:EOLhyphen"/>es Thesaurary, not being of the Bench, shall be allowed to be within the Bar, when the King's Causes are called, and Debated, and no other ways.</p>
+            </div>
+            <div type="act">
+               <head>ACT Impowering the Magistrats of <hi>Edinburgh</hi> to impose a Stent of <hi>500</hi> pounds Sterling yearly, for cleansing the Town for three years. <hi>January 29. 1687.</hi>
+               </head>
+               <p>THE Lords of Council and Session considering, that by an Act of the last Parliament, the Magistrats of <hi>Edinburgh</hi> are ordained to lay down effectual ways, for preserving the Town, Cannongate and Su<g ref="char:EOLhyphen"/>burbs, from Nastiness, and freeing the same of Beggars, which repair in and about the Burgh, under the Pains and Certifications therein exprest; And the Lords of Session, are by the said Act, appointed to meet with the Magistrats, and to receive from them rational Proposals to that effect, who are likewise Authorized with consent of the Magistrats, to impose such Taxes upon the Inhabitants, Burgesses and others, as they shall find just and necessary, for cleansing the Town, and in pursuance of the said Act of Parliament. The Lords of Session having several times met with the Magistrats, and at last resolved, and condescended upon a method of clean<g ref="char:EOLhyphen"/>sing the Town of <hi>Edinburgh, Cannongate</hi> and Suburbs, from Filth and Nastiness, and of purging and freeing the same of Beggars, repairing in and about the said Burgh, as is more fully Exprest, and Insert in the Articles, under the hand of Sir <hi>Alexander Gibson,</hi> one of their Clerks. And the saids Lords being convinced, that for the effectual Performance thereof, it will at first, require some considerable Expence to be Debursed, for that end; Therefore the Lords of Council and Session, conform to the Power granted to them, by the said Act of Parliament; And for the Magistrat's, their Encouragement to perform the same effectually, Do, with Consent of the Magistrats, Authorize and Impower them, to Impose a Stent of five hundred pounds Sterling yearly, for the space of three years, Commencing from the Term of <hi>Candlesmass,</hi> in this year, one thousand six hundred and eighty seven, upon all the Inhabitants, Burgesses, and others within the Town, Cannongate, and Suburbs thereof, according to the Rents of the Houses possest by them, to be Imployed, for defraying the Expence of Cleansing the Town, and freeing the same of Beggars: And the saids Lords, do hereby Declare, that it shall be always Competent, and in their Power, to Ordain and Prescribe, what further methods they shall find expedient, and necessary from time to time, for Cleansing of the said Town of <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> which the Magistrats shall be holden to perform, without craving any further Imposition, or Expence, than what is hereby Granted, and Declares, that if the Magistrats shall be any ways Remiss, or Negligent, and shall not effectually Cleanse the said Burgh, and free it of Beggars, in, and about the same, the Imposition hereby Granted, shall Expire, and be<g ref="char:EOLhyphen"/>come null and void, and the Magistrats shall Incur and be Lyable to the Certifications contained in the said Act of Parliament. And for the fur<g ref="char:EOLhyphen"/>ther Encouragement of the Magistrats in this matter, the Lords of Session, for themselves, and likewise the Advocats, Clerks, Writers to the Signet, and other Members of the Colledge of Justice, have voluntarly and freely offered to be lyable for payment of their respective Proportions of the for<g ref="char:EOLhyphen"/>said Sum, according to the Rents of the Houses, which they possess. It is always hereby Declared, that this Offer shall no ways prejudge the saids Lords, and Remanent Members of the Colledge of Justice, as to their Pri<g ref="char:EOLhyphen"/>viledge
+<pb n="13" facs="tcp:39845:7"/> of being free from all Stents, and Impositions, within the Town of <hi>Edinburgh:</hi> And the Lords do Declare, that they will appoint two of the Colledge of Justice, to be present, when the Stent shall be made, for the said Sum, to see that the same shall be equally Imposed; and for that effect, appoint the Magistrats to give timeous Intimation to them, of the time of making the said Stent. And Ordain this Act to be insert in the Books of Sederunt.</p>
+            </div>
+            <div type="act">
+               <head>Sentence in Favours of the Members of the Colledge of Justice, against the Town of <hi>Edinburgh, February 23. 1687.</hi>
+               </head>
+               <p>THe Lords of Council and Session, having considered the Summons of Declarator, raised at the Instance of the Members of the Colledge of Justice, of their Priviledges against the Town of <hi>Edinburgh;</hi> The Suspen<g ref="char:EOLhyphen"/>sion raised by them of the Charges given at the Instance of the Town, for payment of the Annuitie, and the Bill of Suspension given in of the Charges for their Proportions of his Majesties Supply, the Answers made thereto for the Town, and whole Disput proponed for either Party, with the Acts of Parliament, and other Acts and Writs founded on <hi>hinc inde</hi> in the Debate; They sustain the foresaid Declarator, as to the Members of the Colledge of Justice, their Immunitie and Exemption from payment of the Annuitie for the Ministers Stipends; And Decerns and Declares them free thereof, both as to by gones and in time coming, and Suspends the Letters <hi>simpliciter</hi> for the same; and likeways sustains the Declarator, as to their Immunitie from Watching and Warding, and any Impositions for the same, and from pay<g ref="char:EOLhyphen"/>ment of any Customs, Calsey-mails, Shoar dues and other Impositions, laid on their Provisions of Meat and Drink for their Families, and their other Goods carried to, or from the Town, and collected at the Ports or other places within the Liberties of the Town; And Declares, that the producing a Certificate subscribed by a Member of the Colledge of Justice, bearing that the Goods or Provisions do properly belong to him, shall be sufficient for freeing them from payment of the said Customs and Impositions, the Certifi<g ref="char:EOLhyphen"/>cat being renewed once in the half year at least: And Sustains the Declara<g ref="char:EOLhyphen"/>tor, as to the Pursuers Exemption from the Civil Jurisdiction of the Magi<g ref="char:EOLhyphen"/>strats of <hi>Edinburgh,</hi> and Declares, that upon their proponing Declinator thereof, the Magistrats ought to desist from any Procedor against them without necessity of Advocation, and before Answer as to the Criminal Ju<g ref="char:EOLhyphen"/>risdiction, and to that Point of the Declarator concerning the Pursuers Im<g ref="char:EOLhyphen"/>ploying Un-freemen within the Town. The Lords Declare they will take Tryal what has been the former Custom as to both these points, and parti<g ref="char:EOLhyphen"/>cularly what was done in the Cases mentioned in the Debate; And the Lords Ordain, that where a Taxation or Cess is imposed by Acts of Parliament, or Convention of Estates; To which the Members of the Colledge of Justice are or shall be lyable, that there be a special and distinct Stent made upon the Town and Suburbs for the <hi>Quota</hi> imposed, and so much more only as may defray the incident Charges of Collecting the same, wherein no Exemption shall be given to the Magistrats, Stent-masters or other persons, but that they be stented for their Proportions of these Impositions as well as other Inhabitants, and likeways, that the Tenements belonging to Trades be sten<g ref="char:EOLhyphen"/>ted, and the Towns Common-good, where the same consists in Land or Few-duties, and doth not bear Burthen with the Shire; but prejudice to the Town of <hi>Edinburgh,</hi> if they think fit to lay on the Proportions of these who have been in use to be exempted upon their own Neighbours, but not upon any Members of the Colledge of Justice: And to the end these Impositions war<g ref="char:EOLhyphen"/>ranted
+<pb n="14" facs="tcp:39845:8"/> by publick Authority may be equally laid on, and these of the Col<g ref="char:EOLhyphen"/>ledge of Justice, who are Heretors not burdened beyond their just Proporti<g ref="char:EOLhyphen"/>ons. The Lords Declare, that they will from time to time Nominat one Ad<g ref="char:EOLhyphen"/>vocat, and one Writer to the Signet for each Quarter of the Town, to meet with the Stent-masters, who shall be appointed by the Magistrats, at their taking of the Survey, and Valuation of the whole Tenements within the Burgh and Suburbs, and of the Trade of the Burgesses which is in use to be stented, and to bear a part of the Burthen of the Cess, and to be present at all their Meetings for imposing of the Stent, and to see that the Valuation be justly and equally made, and the Stent laid on accordingly, and for that ef<g ref="char:EOLhyphen"/>fect, appoints the Magistrats to make Intimation of the time of the Stent ma<g ref="char:EOLhyphen"/>sters Meeting to the Lord President of the Session, the Dean of Facultie, and the Keeper of the Signet Ten days before in time of Session, and Twenty days in time of Vacance; And Appoints this method of Stenting, to be<g ref="char:EOLhyphen"/>gin and take effect for that Term of His M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jesties Supply due and payable at Martinmass next, 1687. but prejudice to the Town of <hi>Edinburgh,</hi> to use exe<g ref="char:EOLhyphen"/>cution for that Terms Supply which was payable at Martinmass last 1686, and the Whitsundays Term now ensuing, according to the Stent already imposed for these two Terms: And the Lords do Declare the persons following to be Members of the Colledge of Justice, who are to enjoy the Priviledges a<g ref="char:EOLhyphen"/>bovementioned, <hi>viz.</hi> The Lords of Session, Advocats, Clerks of Session, the Clerks of the Bills, the Writers to the Signet, the Deputs of the Clerks of Session, who serve in the Utter-House, and their Substituts for Registra<g ref="char:EOLhyphen"/>tions, being one in each Clerks Office, the three Deputs of the Clerks of the Bills, the Clerks of Exchequer, the Directors of the Chancellary, their De<g ref="char:EOLhyphen"/>put, and two Clerks thereof, the Writer to the Privy Seal, and his Deput; The Clerks of the General Registers of Seasings and Hornings, the Macers of the Session, the Keeper of the Minut Book, the Keepers of the Rolls of the Inner and Utter-House. And the Lords do extend the Priviledges foresaid to the persons following, <hi>viz.</hi> One actual Servant of each Lord of the Session, one Servant of each Advocat, four Extracters in each of the three Clerks Offices of the Session, two Servants imployed by the Clerk of Register in keeping the publick Registers, the Keeper of the Session-house, and the Keeper of the Advocats Library. It is always hereby Declared, that if any of these Servants and others, to whom the foresaid Priviledges are extended shall keep Merchant-Shops, Taverns or Ale-houses, or exer<g ref="char:EOLhyphen"/>cise any other Trade within the Burgh, they shall not enjoy any of the Pri<g ref="char:EOLhyphen"/>viledges abovementioned, and Ordains these presents to be recorded in the Books of Sederunt, and to be Printed.</p>
+            </div>
+            <div type="act">
+               <head>ACT concerning Decreets conform. <hi>June 22. 1687.</hi>
+               </head>
+               <p>THE Lords of Council and Session considering, that the custom here<g ref="char:EOLhyphen"/>tofore observed, whereby Ministers of the Gospel have been in use to purchase Decreets conform, upon Decreets of Locality obtained by their Predecessors, is unnecessary, and inconvenient, and chargeable to the Mi<g ref="char:EOLhyphen"/>nisters: Therefore the saids Lords do Declare, that where a Decreet of Lo<g ref="char:EOLhyphen"/>cality is obtained by a Minister for his Stipend, any succeeding Minister needs not obtain a Decreet conform thereupon; but upon a Bill given in by him to the Clerk of the Bills, in the ordinary way, and production of his Pre<g ref="char:EOLhyphen"/>sentation, Collation, and Institution, with the Decreet of Locality obtained by his Predecessor, Letters of Horning may be direct against these lyable in payment of his Stipend; and Declare, that any Execution which shall be
+<pb n="15" facs="tcp:39845:8"/> used thereupon, shall be valid and sufficient, notwithstanding of any former custom or practice to the contrair.</p>
+            </div>
+            <div type="act">
+               <head>ACT discharging Decreets to be delete in the Minute-book, for not payment of the Macers dues. <hi>June 30. 1687.</hi>
+               </head>
+               <p>THE Lords of Council and Session considering the prejudice the Leidges do sustain, by scoring of Decreets in the Minut-book, for not payment of the Macers and keeper of the Minut-book their dues; therefore they discharge any Decreets put up in the Minut-book, to be scored or de<g ref="char:EOLhyphen"/>lete upon that ground: And ordains the Clerks of Session, in their respective Offices, to appoint that person who uplifts their own dues, also to Collect the dues payable to the Macers and keeper of the Minut-book, for Decreets Extracted in their Chambers, according to the Responde whereof, the said Col<g ref="char:EOLhyphen"/>lector shall be lyable to make due payment to them: And ordains that the <hi>Responde</hi>-Book make mention of the date of the Decreet Extracted, as the same stands in the Minut-book.</p>
+            </div>
+            <div type="act">
+               <head>ACT for inserting all the Defenders names in the Minut-book. <hi>December 10. 1687.</hi>
+               </head>
+               <p>THE Lords of Council and Session considering the prejudice the Leidges do sustain, by the custom used in putting up in the Minut-book Decreets obtained by a Party, against several Defenders, expressing only one of their names, and comprehending the rest under the word, <hi>and others;</hi> Therefore they ordain, that in time coming the keeper of the Minut-book shall set down therein the Names and Designations of all the Defenders, against whom the Decreet is given; with certification, that if any of their names be omitted, the Decreet, as to that person, shall be void and null; excepting Decreets given against Tennents, in Poyndings of the Ground, Removing, and for Maills and Duties, wherein it shall be suffici<g ref="char:EOLhyphen"/>ent to mention them to be Tennents in such a Barrony or Tennendry; but if any of the Defenders Called, or a third Party Compearing, propone upon his Right, and Decreet be given against him, his name is to be insert in the Minut-book: And the Lords Ordain, that in Process against Debitors, where an Advocate Compears for any of the Defenders, for whom he did not re<g ref="char:EOLhyphen"/>turn the Process, that he shall mark with his hand upon the Process, for what person he Compears, and Subscribe the same, conform to the Act of Parl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ament, and that he be not allowed to propone a Defence for the Party, untill he do the same.</p>
+            </div>
+            <div type="act">
+               <head>
+                  <hi>The</hi> formula <hi>of the Oath in a</hi> Cession Bonorum. February 8. 1688.</head>
+               <p>THE Lords of Council and Session do Ordain, that in Process of <hi>Cessio Bonorum,</hi> the Pursuer shall give his Oath in the Terms following, <hi>viz.</hi> If he hath any Lands, Heretages, Sums of Money, Goods or Gear belong<g ref="char:EOLhyphen"/>ing to him, more than is contained in the Disposition, and Inventar produ<g ref="char:EOLhyphen"/>ced in Process, if since his Imprisonment he hath made any other Disposition than that which is produced; and if he hath made any other before his Im<g ref="char:EOLhyphen"/>prisonment, and if he acknowledge that he hath made any other Dispositi<g ref="char:EOLhyphen"/>on before his Imprisonment, that he condescend upon the same, and also that he Depone, if since his Imprisonment he hath put out of his hands any Mo<g ref="char:EOLhyphen"/>neys, Goods or Gear belonging to him: And the Lords do Declare, that if the Pursuer shall deny that he hath granted any other Disposition, &amp; that his Oath shall be thereafter redargued, the Decreet of <hi>Bonorum</hi> obtained by him, shall
+<pb n="16" facs="tcp:39845:9"/> be void and null, and he shall never get the benefit of a <hi>Cessio Bonorum</hi> there<g ref="char:EOLhyphen"/>after.</p>
+            </div>
+            <div type="act">
+               <head>ACT concerning Oaths in Exhibitions. <hi>February 22. 1688.</hi>
+               </head>
+               <p>THE Lords of Council and Session considering the inconveniencies to His Majesties Subjects, by Defenders called in Exhibitions or Inci<g ref="char:EOLhyphen"/>dents, for Exhibition or Production of Writs, their Deponing only in ge<g ref="char:EOLhyphen"/>neral terms, that they neither have, nor had the Writs since the Citation, or fraudulently have put the same away at any time. Therefore they Ordain, that in all time coming, Parties shall be obliged to answer to all special per<g ref="char:EOLhyphen"/>tinent Interrogators, in relation to their having of the Writs, or putting the same away, or as to their knowledge and suspicion, by whom the samine were taken away, or where they presently are, that the Pursuer may thereby make discovery, and recover the same. Declaring always, that upon advising of the Defenders Oaths, they shall not be otherways decerned against, as havers of the saids Writs, unless it be found that they had the same since the Citati<g ref="char:EOLhyphen"/>on, or fraudfully put them away at any time.</p>
+            </div>
+            <div type="act">
+               <head>ACT concerning Bills of Suspension, where the Reason is referred to the Chargers Oath. <hi>February 29. 1688.</hi>
+               </head>
+               <p>THE Lords of Council and Session, considering the prejudice the Liedges do sustain, by Suspensions raised frequently upon calumnious reasons, referred to the Chargers Oath; They Ordain, that in time coming, where Bills of Suspension shall be given in, and the reason offered to be pro<g ref="char:EOLhyphen"/>ven by the Chargers Oath, that the Ordinary upon the Bills, if he find the reason relevant, shall take the Oath of the Charger, being present, upon the verity of the reason, in order to the passing or refusing of the Bill of Su<g ref="char:EOLhyphen"/>spension; and if the Charger be absent, that he take Suspenders Oath of Calumny, that he hath just reason to propone the Reason of the Suspension; and he Deponing <hi>affirmativè,</hi> or if he be not present to give his Oath, that in either of these cases, the Ordinary pass the Bill, with this Quality, that the Suspender shall be lyable to the Charges and Expences the Charger shall be at, through the purchasing of that Suspension, and in discussing of the same, ac<g ref="char:EOLhyphen"/>cording as he shall depone upon these Expences, without any modification thereof, if the Letters shall be found orderly proceeded.</p>
+            </div>
+            <div type="act">
+               <head>ACT concerning the trial of Advocats, who enter upon a Bill to the Lords. <hi>July 6. 1688.</hi>
+               </head>
+               <p>THE Lords of Council and Session, do Ratifie and Approve the form and manner of trial, which is at present, and hath been these several years by gone observed, as to such who enter Advocats upon trial, in the or<g ref="char:EOLhyphen"/>dinary way, <hi>viz.</hi> By privat and publick Examination, and assigning them the Subject of a publick Lesson; and finding it expedient that some course be taken for regulating the entry of others, who are admitted extraordinarly upon a Bill to the Lords, They Ordain, that in time coming, when any persons shall apply to the Lords, to be entered Advocats, without undergoing the ordinary trial, they shall be examined by the Lords <hi>in praesentia,</hi> concerning their knowledge of the Styles, the form of Process, and of the Principles of our Law, and that the Lords shall be well informed of their integrity and honest deportment, before they be admitted.</p>
+            </div>
+            <div type="act">
+               <pb n="17" facs="tcp:39845:9"/>
+               <head>ACT for marking the Names of the Witnesses Examined upon the Act. <hi>July 7. 1688.</hi>
+               </head>
+               <p>THE Lords Ordains, that the Ordinary who Examines Witnesses, im<g ref="char:EOLhyphen"/>mediatly after the Examination, shall set down upon the Act or War<g ref="char:EOLhyphen"/>rand for Examination, the Names of the Witnesses Examined by him, and Subscribe the same: And the Lords Declares, they will have no regard to the Depositions of these Witnesses, whose names shall not be set down by the Lord Examinator, in manner foresaid.</p>
+            </div>
+            <div type="act">
+               <head>ACT, anent the Habit of Dyvours. <hi>July 18. 1688.</hi>
+               </head>
+               <p>THE Lords of Council and Session do ordain, that in time coming, when any Bankrupt shall raise a Process of <hi>Cessio bonorum</hi> against his Creditors, that with the Process he produce a Certificat, under the hand of one of the Magistrats of the Burgh where he is Incarcerat, bearing, That he hath been the space of a Month in Prison; without which Certificat, the Process is not to be sustained; and when he shall obtain a Decreet, Ordains the Magistrats of the Burgh, before his Liberation out of Prison, to cause him take on, and wear upon his Head, a Bonnet, partly of a Brown, and part<g ref="char:EOLhyphen"/>ly of a Yellow Colour, with upper-most Hose, or Stockings, on his Legs, half Brown and half Yellow coloured, conform to a Pattern delivered to the Magistrats of <hi>Edinburgh,</hi> to be keeped in their Tolbooth, and that they cause take the Dyvour to the Mercat-Cross, betwixt ten and twelve a Clock in the forenoon, with the foresaid Habit, where he is to sit upon the Dyvour Stone, the space of an hour, and then to be dismissed; and ordains the Dy<g ref="char:EOLhyphen"/>vour to wear the said habit in all time thereafter; and in case he be found ei<g ref="char:EOLhyphen"/>ther wanting, or disguising the same, he shall lose the benefit of the <hi>Bono<g ref="char:EOLhyphen"/>rum;</hi> And in case the Magistrats Certificat aforesaid shall be redargued, or that they shall not observe the said Order, in the Liberation of Dyvours, they shall be lyable in the Debt, for which the Dyvour is Incarcerat: And the Lords Declares, they will observe this Act in time coming; and will not dispense with the foresaid Habit, except in cases of innocent misfortune, li<g ref="char:EOLhyphen"/>quidly Libelled, and proven. And appoints this Act to be Printed, and the Agent for the Royal-Burrows, to transmit a Printed Copy thereof to the Ma<g ref="char:EOLhyphen"/>gistrats of each Burgh.</p>
+            </div>
+            <div type="act">
+               <head>
+                  <hi>ACT, anent Nottars.</hi> July 21. 1688.</head>
+               <p>THE Lords of Council and Session do Prohibite and Discharge Notars to subscribe Writs for persons, who cannot write themselves, unless it either consist in the Notars knowledge, that he for whom, and at whose command they subscribe, is the person designed in the Writ, or that the same be attested by these who subscribe witnesses to the Notars subscription, or by other credible persons, and which the Notar is to mention, when he sub<g ref="char:EOLhyphen"/>scribes for the Party. And to the end, that this Act may be known to all his Majesties Leidges, Ordains the same to Printed.</p>
+            </div>
+            <div type="act">
+               <head>ACT, anent the Calling of Transferrings. <hi>July 26. 1688.</hi>
+               </head>
+               <p>THE Lords of Council and Session do Declare, that Summons of Transferring being seen and returned, may be called before the Or<g ref="char:EOLhyphen"/>dinar, in the <hi>Outter-house,</hi> and that he may proceed therein, albeit the same be not Enrolled.</p>
+            </div>
+            <div type="act">
+               <pb n="18" facs="tcp:39845:10"/>
+               <head>Act concerning Summons of Wakening. <hi>November 6, 1689.</hi>
+               </head>
+               <p>THE Lords of Council and Session considering, the Expence that must arise by Summons of Wakning of the whole Processes depen<g ref="char:EOLhyphen"/>ding before the Lords, and the Executions thereof through all the corners of the Kingdom, if the ordinary Form of Waknings were necessary to be observed in this extraordinary Case, and withal considering that the Lords in extraordinary cases, have allowed Edictall Citations at the Mercat-Crosses; Do therefore for the ease of the Liedges, Appoint the keeper of the Signet to exped three Summons of Wakning for each Shire of the Kingdom, leaving a large Blank for inserting Processes therein, and do hereby Ordain the Sheriff Clerk of each Shire, and the Clerks of the Stew<g ref="char:EOLhyphen"/>artries of <hi>Kircudbright</hi> and <hi>Orknay;</hi> and in case of their absence or neglect, the Town-Clerks of the Head-Burghs of the saids Shires and Stewartries, to insert all Processes whereof he shal receive a Note before the second Mercat-day after the saids blank Summons comes to his Hand, and that he cause Cite all Persons and Parties residing within the Shire or Stewartrie upon six days, to appear before the Lords, for wakning the saids Processes, and that he cause read the said Summons publickly at the Mercat-Cross be<g ref="char:EOLhyphen"/>twixt ten and twelve on the said Mercat-day, after three several Oyesses, and that he affix a Copy of the said Summons, so filled up upon the Cross, and that he return the said Summons with Executions several, and parti<g ref="char:EOLhyphen"/>cular, for each process insert therein, with all possible diligence to one of the principal Clerks of Session, and that he make the like Citation upon the second blank Summons sent to him upon the next Mercat-day in man<g ref="char:EOLhyphen"/>ner foresaid, for all the Processes whereof he shal receive a Note for the se<g ref="char:EOLhyphen"/>cond before the said Mercat-day; And that he do the like on the next Mer<g ref="char:EOLhyphen"/>cat-day thereafter, as to the third Summons sent to him, and that he cause the Executor, sign all the several Executions, with the Witnesses that he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mployes therein <hi>respectivè:</hi> Providing always, that he receive six Shilling <hi>Scots</hi> with each Note of the Processes to be insert as aforesaid, for doing the Duties above-written, and for returning the Processes to the Clerk, It is hereby Declared, that this is without prejudice to any Party that pleas<g ref="char:EOLhyphen"/>es to make use of Waknings in the ordinary form, and that it is only to be extended to such Processes, as were not sleeping the first of <hi>November</hi> 1688, and since that time have not been called through the Surcease of Justice, and that there is no necessity to waken concluded Causes; (The same ha<g ref="char:EOLhyphen"/>ving never been in use to be wakened) which the Lords will advise, and proceed in according to the Books of Enrolment: Likeas, the Lords ap<g ref="char:EOLhyphen"/>point the Pursuers, who have Benefit by this Order, to have their several Executions delivered to them by the Clerks of the Session, and appoints them to present Coppies of the said general Summons, to be formed by the Writers, and pass the Signet, as is usual in taking Summons of the Signet; And it is hereby Declared, that where Summons were formerly execute for the first Dyet, and the second Citation not given, that in that Case a new Summons may be raised in Name of Their Majesties, King <hi>William</hi> and Queen <hi>Mary,</hi> which shal suffice in place of a second Citation, and if the Summons have been execute for both Dyets, but not called, that the same may be wakned in the same manner, as is appointed by this Act for Summons, which have been called. And ordains this Act to be Printed and published by Macers or Messengers at Arms, at the Mercat-Cross of <hi>Edinburgh,</hi> and Appoints the several Sheriff-Clerks to cause publish the
+<pb n="19" facs="tcp:39845:10"/> same at the Mercat-Cross of the Head-Burgh of the Shire, upon the next Mercat-Day after the same shall come to their hands, betwixt ten and twelve a Clock in the forenoon.</p>
+            </div>
+            <div type="act">
+               <head>ACT concerning Declinators proponed against the Ordinary in the Ʋtter-House. <hi>December 14, 1689.</hi>
+               </head>
+               <p>THE Lords of Council and Session considering, that sometimes De<g ref="char:EOLhyphen"/>clinators are proponed against the Ordinary in the Utter-House, and it being no ways Just, that the Party on that Occasion should sustain pre<g ref="char:EOLhyphen"/>judice by delay of the Process; Therefore, the Lords do Declare, that when the Ordinary in the Utter-House shall be declined upon relevant Grounds in Law; or that the ordinary shall decline himself, that upon de<g ref="char:EOLhyphen"/>sire of the Ordinary, or application of the Party, They will Nominate and Appoint an other of their Number to call and discuss that Process in that same Week.</p>
+            </div>
+            <div type="act">
+               <head>Additional ACT concerning the Order of the side Barr, and reporting of Causes. <hi>January 16, 1690.</hi>
+               </head>
+               <p>THE Lords of Council of Session, Do renew the Act of Sederunt of the fourth of <hi>November</hi> 1686, anent the Order of the Lords going to the Side-Barr, and reporting of Causes, and Ordains the same to be duely observed in time coming, with the Additions following, <hi>viz.</hi> That the first named in the Roll of the two Ordinaries for the Side-Barr, shall go out betwixt Ten and Eleven, and the other betwixt Eleven and Twelve a Clock; And where any Act, Decreet, or Protestation being pronoun<g ref="char:EOLhyphen"/>ced without Debate in the Cause, is thereafter stopped upon Application of one of the Parties, that the same is not to be called at the Side-Barr, but upon the Bench in the Utter-house, before the ordinarie come out the next week at furthest after pronouncing thereof; And whereas it is Ordained by the said Act, that only two Lords in one day shall report Causes, The Lords Declares, that the Ordinary in the Utter-House, and the Ordinary on the Bills, are not thereby debarred from reporting, they being under<g ref="char:EOLhyphen"/>stood to be Supernumerary; And Ordains the foresaid Act of Sederunt, with thir additions thereto, to be affixed on the Wall of the <hi>Outter-House.</hi>
+               </p>
+            </div>
+            <div type="act">
+               <head>ACT, concerning Aliments and Factors being lyable for Annualrent. The last of <hi>July, 1690.</hi>
+               </head>
+               <p>THe Lords of Council and Session taking to their Consideration, That they are frequently importuned by Parties having Actions depending before them, who apply to have Sums modified for their Aliment, during the dependence of these Actions; albeit it be doubtful, if there will be a<g ref="char:EOLhyphen"/>ny free superplus due to them, which might be a ground for such a Modifi<g ref="char:EOLhyphen"/>cation; Therefore the saids Lords Declare, That in time coming they will grant no Aliment to Parties upon the account of Actions they have depen<g ref="char:EOLhyphen"/>ding before them, unless it appear that there will be a free superplus Sum uncontrovertedly belonging to these persons, at the event of the Process, in consideration whereof a Sum may be modified in the mean time, for their present Aliment and Subsistence; and in case of Competition anent the Rents of Lands, upon real Rights, that no Aliment shall be given to any of the Competitors, until a Decreet of preference, ranking the whole Cre<g ref="char:EOLhyphen"/>ditors, be obtained; unless there appear a clear Fond, out of which the Aliment may be granted, without prejudice of any other of the Competi<g ref="char:EOLhyphen"/>tors,
+<pb n="20" facs="tcp:39845:11"/> Likeas it is further Declared, That where there is a Sequestration of Rents, and a Factor named by the Lords, that the Factor shall be lyable for Annualrent of what Rents he shall recover, or by diligence might have recovered within a year after the same are due, in respect the Factor cannot safely pay to any of the Competitors, until the preference be conclu<g ref="char:EOLhyphen"/>ded; And in like manner, that no Aliment shall be granted to Debitors, or persons having Right to a Reversion, or to the Property after the Distresses are purged, unless it be evident, that there is a superplus Rent over and a<g ref="char:EOLhyphen"/>bove all the Annualrents of the persons Competing.</p>
+            </div>
+            <div type="act">
+               <head>ACT, for keeping the Innermost Barr of the Outter-House. <hi>November 6. 1690.</hi>
+               </head>
+               <p>THe Lords of Council and Session, Considering the inconveniency of the peoples crowding within the Innermost Barr of the Outter-house, where the Under-Clerks, and the Keeper of the Minut-Book stay, and the hazard that may ensue therefrom, of abstracting Processes and Pa<g ref="char:EOLhyphen"/>pers; They Prohibit and Discharge any Persons to enter, or stay within the said Barr, excepting his Majesties Advocat and Sollicitor, and one Servant to be appointed by the Advocat, and Ordains the Little Door nearest the Bench, one the West-side thereof to be immediatly closed up. And the Lords requires the Macers to exact from each person, who shall be found within the said Barr, half a Dollar <hi>toties quoties,</hi> to be put in the Poors Box; and in case the Party do not pay the same immediatly, that they commit him to Prison. And the Lords Declares, That if the Macers shall spare a<g ref="char:EOLhyphen"/>ny person, in not exacting the said Fine, that they shall be lyable therein themselves.</p>
+            </div>
+            <div type="act">
+               <head>ACT, concerning the stopping of Decreets, and hearing the Cause thereafter. <hi>November 7. 1690.</hi>
+               </head>
+               <p>THe Lords of Council and Session do Ordain their Act of Sederunt, of the fourth of <hi>November</hi> 1686. with the Additions and Alterations thereof, by their <hi>Act</hi> of the 16th of <hi>January</hi> last, to be exactly observed, and to be affixed upon the Wall of the Outer-House, with the additions follow<g ref="char:EOLhyphen"/>ing, <hi>To wit,</hi> That the giving stops to <hi>Acts, Decreets, Protestations,</hi> or <hi>In<g ref="char:EOLhyphen"/>terlocutors,</hi> within six days after pronouncing thereof, is not to hinder the Extracts of the same, after they are read in the Minut Book; But on the contrair, Ordains the Clerks to give Extracts as they shall be demanded, with all diligence, as they will be answerable; But only in case the Parties do not insist to obtain Extracts within twenty four hours after they are read in the Minut-Book. And further, in case Extracts be not insisted for, and obtained of the foresaid Sentences, wherein Parties have been heard upon the Bench, The Lords do further Declare, That no stop shall be granted, if the same shall not be obtained within six days after the date of the Sen<g ref="char:EOLhyphen"/>tence, craved to be stopped, and that no further time shall be granted, but the first Dyet that falls to the Granter of the stop, to be at the Side-Barr, in manner above-written. And it is further Declared, That no stop shall be Granted, unless he who craves the same, give in to the pronouncer of the Sentence craved to be stopped in write, the particular Points he desires to be heard upon, that the Ordinar may reject the same, unless he find a rele<g ref="char:EOLhyphen"/>vant Ground therein; And if thereupon he stop, that he shall give the o<g ref="char:EOLhyphen"/>ther Party the said Condescendence to see, that both parties may be ready at Calling, that time be not spent with unnecessar altercations at the Side-Bar. And Ordains an Amaund to be given in to the Ordinary, with the said
+<pb n="21" facs="tcp:39845:11"/> Condescendence, to be put in the Poors Box, in case the Process or Inter<g ref="char:EOLhyphen"/>locutor therein be found to have been disingenuously represented in the Condescendence: And the Lords do Prohibite and Discharge any Servants of the Lords of Session, to Agent in Processes, or to deliver Informations to the Lords, except in their Masters own proper Causes, or where they are concerned themselves as Parties; And likewayes Discharges the Clerks Servants to Agent in Processes, or to deliver Informations to the Lords, ex<g ref="char:EOLhyphen"/>cept in their Masters proper Causes, or their own, with Certification if they transgress, they shall be extruded the House, and further punished as the Lords shall see cause.</p>
+            </div>
+            <div type="act">
+               <head>ORDER for Printing the Act against Solicitation, and Observing of the same. <hi>November 11. 1690.</hi>
+               </head>
+               <p>THE Lords of Council and Session do Ordain their Acts of <hi>Sederunt,</hi> of the 6th of <hi>November,</hi> 1677. and the 24th of <hi>December</hi> 1679. against Solicitation, to be Printed, and Affixed on the Wall of the outer-house, and Ordains these Acts to be observed in all points, Likeas, the present Lords have engaged upon their Honour, to observe the same: and Ordains that each Session the Lords shall renew that Engagement. This Subscribed by the Lords <hi>ut Sederunt.</hi>
+               </p>
+            </div>
+            <div type="act">
+               <head>ACT concerning the manner of delivering Informations to the Lords. <hi>November 29. 1690.</hi>
+               </head>
+               <p>THE Lords of Council and Session taking to their serious considera<g ref="char:EOLhyphen"/>tion the great inconveniency of Solicitation, which creats diffidence in these who have not acquaintance or friends to recommend them, that they are not equally stated, and puts them to a necessity to go to every Lords Lodging, imagining that if they do not, that he may think he is ei<g ref="char:EOLhyphen"/>ther despised, or distrusted, which is a slavery upon the Leidges, upon the Lords, and upon the Lawyers, who are frequently urged by their Clients to go with them, or for them to solicite the Lords: Therefore to prevent so evil a custom, which is contrary to several Acts of <hi>Sederunt,</hi> and contra<g ref="char:EOLhyphen"/>ry to the practice of the most civil Nations abroad, The Lords have re<g ref="char:EOLhyphen"/>newed and enlarged the Acts of <hi>Sederunt</hi> against Solicitation; And because they find the chief occasion of Solicitation, is the pretence that the Liedges think they are not secure that the Lords get their Informations, unless they deliver them in their own hands, and thereupon take occasion to solicite; for preventing whereof, and for easing the Liedges, themselves, and the Lawyers, They, according to the example of the most famous Judicatories abroad, have appointed Boxes for every one of the Lords, to stand on a Bank in the Session-house, from three a-Clock till seven a-Clock at night, each Box having a slit, in which the Informations or Bills may be let in, and cannot be drawn out, until the Box be opened; the Key whereof is to be kept by every Judge himself, and to be committed to no other; and each Lord is to send for his Box at seven a-Clock at night, that he may have com<g ref="char:EOLhyphen"/>petent time to peruse all the Informations therein, and to consider the same, and the Citations alledged in the same, whereby none of the Liedges can be put to trouble to attend any of the Lords, for giving their Informations, Bills, or Answers. Therefore the Lords do Declare, that they will receive no Informations, Bills, or Answers, in any other way, and that the re<g ref="char:EOLhyphen"/>ceiving the same any other way, shall be holden as Solicitation, except these Lords who are to report, who may receive the Informations of the Parties, being delivered to the Clerk of the Process, and by the Clerk, with the Pro<g ref="char:EOLhyphen"/>cess,
+<pb n="22" facs="tcp:39845:12"/> to the Reporter. And because Parties do frequently forbear to give their Informations, through negligence, or of purpose to see their Adver<g ref="char:EOLhyphen"/>saries Informations, before they make their own: And likewise, the Lords sometimes are not ready to report, when they have received Informations, whereby the rest of the Lords are uncertain what will be reported every day, and are necessitated to read much more than they needed: Therefore it is appointed, that every Reporter shall before seven a-Clock at night, put a Note in each Box, of the Parties, whose Process he is to report the next day.</p>
+            </div>
+            <div type="act">
+               <head>ACT concerning the time of Signing Interloquitors by the Ordinary. <hi>December 13. 1690.</hi>
+               </head>
+               <p>THE Lords of Council and Session, considering the inconveniencies that do fall out through the delay of Signing Interloquitors by the Ordinary, after the same are pronounced; therefore they Ordain, that in time coming, where any Act, Decreet or Protestation is pronounced by the Ordinary in the Outer-house in absence, the Warrand thereof shall be Sign'd by him before he go off the Bench; and where any Interloquitor is pronounced by the Ordinary in the Outer-house upon Debate, that the same shall be presented to him, to be Signed that day whereon the Interloquitor is pronounced, or the next day thereafter, except these pronounced upon <hi>Friday</hi> and <hi>Saturnday,</hi> which are to be Signed at furthest upon the <hi>Munday</hi> thereafter, otherwise that the same shall not at all be Signed, but the Process shall be entered again in the Books of Enrolment. And the Lords Declares, that they will attend from six to seven a-Clock at night, for Signing the saids Interloquitors. Likeas, the saids Lords do Ordain, that where a Cause is taken by the Ordinary in the Outer-house to Interloquitor, to be report<g ref="char:EOLhyphen"/>ed to the whole Lords, the Process shall be brought to the Ordinary, as fol<g ref="char:EOLhyphen"/>lows, <hi>viz.</hi> The Process taken to Interloquitor upon <hi>Tuesday,</hi> to be brought to the Ordinary upon <hi>Wednesday,</hi> to be reported upon <hi>Thursday;</hi> and these taken to Interloquitor on <hi>Wednesday,</hi> to be brought to the Ordi<g ref="char:EOLhyphen"/>nary on <hi>Thursday,</hi> to be reported on <hi>Friday;</hi> and the Process taken to In<g ref="char:EOLhyphen"/>terloquitor on <hi>Thursday, Friday</hi> and <hi>Saturnday,</hi> to be brought to the Or<g ref="char:EOLhyphen"/>dinary on <hi>Munday</hi> thereafter, to be reported on <hi>Tuesday</hi> or <hi>Wednesday</hi> fol<g ref="char:EOLhyphen"/>lowing; with certification, that if the same be not done, the Process shall go to the Roll again.</p>
+            </div>
+            <div type="act">
+               <head>ACT Ordaining Processes to be delete, where the Pursuer does not insist. <hi>December 20. 1690.</hi>
+               </head>
+               <p>THE Lords Ordains, that where Causes are called in the Roll of the Outer-house, and the Pursuers Procurators do not insist, that the Process shall be delete out of the Roll, and not continued to the next Weeks Roll.</p>
+            </div>
+            <div type="act">
+               <head>ACT anent the Collecting of the Macers Dues for Decreets. <hi>December 31. 1690.</hi>
+               </head>
+               <p>THE Lords of Council and Session considering, that by the way now used of receiving the Macers and Keeper of the Minut-book their Dues for Decreets, by the Clerks Servants, who Extract the same, the Ma<g ref="char:EOLhyphen"/>cers are sometimes frustrat or delayed in the payment thereof; Therefore the Lords do Ordain the Keeper of the Minut-book in time coming, to Collect the Dues payable to the Macers and himself for Decreets, and to make pay<g ref="char:EOLhyphen"/>ment thereof to them, as they shall require the same; and Prohibits and Discharges any Decreets to be Extracted after the sixth of <hi>January</hi> next, un<g ref="char:EOLhyphen"/>till
+<pb n="23" facs="tcp:39845:12"/> a Certificat be produced to the Clerk Servant, Extracter of the De<g ref="char:EOLhyphen"/>creet, under the hand of t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Keeper of the Minut-book, bearing the Ma<g ref="char:EOLhyphen"/>cers dues for that Decreet to be payed to him: With Certification, that the Extracter who shall contraveen, shall be extruded out of the Chamber, and otherways pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ished as the Lords shall think fit: And for that effect, that the Clerks make their <hi>Responde</hi> Books patent to the Macers, and Keeper of the Minut-book.</p>
+            </div>
+            <div type="act">
+               <head>ORDER concerning the time of putting Informations in the Boxes. <hi>June 2. 1691.</hi>
+               </head>
+               <p>THE Lords of Council and Session do Ordain their Act of the Twen<g ref="char:EOLhyphen"/>ty ninth of <hi>November,</hi> 1690. Anent the manner of delivering In<g ref="char:EOLhyphen"/>formations, to be duly observed, with this alteration, That whereas by the Act, the Boxes wherein the Informations are to be put, are appointed to stand in the Session-house from Three to seven a-Clock at night. The Lords Ordains, that for this Session the Boxes shall only remain in the Session-house until Six a-Clock, and that then the same be taken away, that the Lords may have competent time to peruse their Informations.</p>
+            </div>
+            <div type="act">
+               <head>ACT appointing a List to be affixed on the Wall, of Causes to be called at the Side Bar. <hi>June 10. 1691.</hi>
+               </head>
+               <p>THE Lords of Council and Session do Ordain, that each Lord, when he falls in course to be Ordinary at the Side-Bar, shall the day pre<g ref="char:EOLhyphen"/>ceeding, before Three a-Clock in the Afternoon, cause affix upon the Wall of the Outer-house, a Note or List of the Causes to be called by him the next day, to the effect the Advocats for the Parties concerned in these Caus<g ref="char:EOLhyphen"/>es may be in readiness to Debate at Calling thereof; and appoints the like to be done by the Lord who goes out, and calls on the Bench in the Outer-house (before the Ordinary come out) any Process wherein he hath pro<g ref="char:EOLhyphen"/>nounced Act, Decreet, or Pro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>estation without Debate, and thereafter stopped by him, or referred to him by the Lords. And it is hereby De<g ref="char:EOLhyphen"/>clared, that the Advocats shall not be obliged to Debate in any Process, which shall not be contained in the foresaid Note.</p>
+            </div>
+            <div type="act">
+               <head>ACT allowing the Ordinary for the outer-house, to call Causes on the Bench the Week after he is Ordinary. <hi>July 7. 1691.</hi>
+               </head>
+               <p>THE Lords of Council and Session do Declare, that to prevent the con<g ref="char:EOLhyphen"/>fusions at the Side-Bar, the Ordinary in the Outer-house, after his Week is ended, will sit in the Outer-house the Week immediatly follow<g ref="char:EOLhyphen"/>ing, half an hour before the Session-Bell Ring, till the Ordinary in that Week come out, that he may hear Parties upon any Alledgance, for alte<g ref="char:EOLhyphen"/>ring any Sentence or Interloquitor given by him in his Week, Provided that the Alledgance be delivered in Writ to him, if he find it just or doubt<g ref="char:EOLhyphen"/>ful, and will form a Roll of such Alledgances, and send the samen to the Clerks, that these concerned may take a Copy thereof, and be in readiness, and that he will stop nor alter no Interloquitor nor Sentence otherways. And the Lords Declares, that they will meet during this Session at half nine a-Clock.</p>
+            </div>
+            <div type="act">
+               <pb n="24" facs="tcp:39845:13"/>
+               <head>ACT ordaining Letters under the Signet, to be Subscribed at the Juncture of the Sheets. <hi>July 8. 1691.</hi>
+               </head>
+               <p>THE Lords of Council and Session do Ordain, that in time coming all Letters consisting of moe Sheets than one, which pass the Signet, as well Suspensions as others, (excepting only Summons) be Subscribed by the Writers to the Signet upon the Margine, at the Juncture of the Sheets, in the same manner as is done by the Clerks of Session in Extracts passing their Offices.</p>
+            </div>
+            <div type="act">
+               <head>ADDITION to the <hi>Formula</hi> of the Oath in a <hi>Cessio Bonorum. July 18. 1691.</hi>
+               </head>
+               <p>THE Lords of Council and Session do Ordain the Act prescribing the <hi>Formula</hi> of the Pursuers Oath in a Process of <hi>Cessio Bonorum,</hi> to be observed with this Addition to the <hi>Formula, viz.</hi> That the Pursuer De<g ref="char:EOLhyphen"/>pone if he hath cancelled or put out of his hands any Writs, since his Im<g ref="char:EOLhyphen"/>prisonment, and if he acknowledge the same, that he condescend what these Writs were.</p>
+            </div>
+            <div type="act">
+               <head>ACT concerning the tryal of Nottars. <hi>July 30. 1691.</hi>
+               </head>
+               <p>THE Lords of Council and Session, considering the inconveniencies that do ensue from the ignorance and informality of Nottars, which occasions many Pleys; they Ordain, that in time coming no person be ad<g ref="char:EOLhyphen"/>mitted Nottar, unless a Petition be given in to the whole Lords <hi>in praesen<g ref="char:EOLhyphen"/>tia,</hi> with a Certificat under the hands of Persons of Credit, attesting the Petitioner to be a Person of good Fame, and that he hath had good Breed<g ref="char:EOLhyphen"/>ing, for qualifying him to exerce the Trust of a Publick Nottar; and that exact Tryal be taken by the Ordinary on the Bills for the time, and any other of the Lords to be appointed by them (being both met together) of the Persons Knowledge and Qualifications, conform to the Acts of Par<g ref="char:EOLhyphen"/>liament which are in vigour, before he be admitted Nottar.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:39845:13"/>
+            <head>INDEX OF THE ACTS of SEDERUNT, OF THE LORDS OF THE SESSION, Past since February, 1681.</head>
+            <list>
+               <item>ACT allowing all persons to sell Flesh in <hi>Edinburgh</hi> on the Market days, <hi>February 17. 1682. Pag. 3.</hi>
+               </item>
+               <item>ACT concerning the passing of Bills of Suspension upon Juratory Caution, <hi>No<g ref="char:EOLhyphen"/>vember 8. 1682. Ibid.</hi>
+               </item>
+               <item>ACT ordaining the Clerks of Session to take Bonds of their Servants, not to Agent in Processes, <hi>November 28. 1682. Pag. 4</hi>
+               </item>
+               <item>ACT concerning Commissions to Sheriffs in that part, for giving Infeft<g ref="char:EOLhyphen"/>ment, <hi>January 20. 1683. Pag. 5</hi>
+               </item>
+               <item>ACT anent payment of the Secretaries Dues, where Reasons of Suspension are discussed upon the Bill, <hi>November 6. 1683. Ibid.</hi>
+               </item>
+               <item>Warrand for Letters of Horning for delivery of Consigned Money to the Clerk of the Bills, <hi>December 22. 1683. Ibid.</hi>
+               </item>
+               <item>ACT Ratifying the Act of the Faculty of Advocats anent the payment of Dues by Intrant Advocats, <hi>January 28. 1684. Pag. 6</hi>
+               </item>
+               <item>ACT concerning Decreets of Adjudication, <hi>February 26. 1684. Pag. 7</hi>
+               </item>
+               <item>His MAJESTIES Warrand, exeeming the Lords of Session from pay<g ref="char:EOLhyphen"/>ment of Taxes, <hi>November 19. 1684. Ibid.</hi>
+               </item>
+               <item>ACT Discharging the Printing of Informations, <hi>January 2. 1685. Pag. 9</hi>
+               </item>
+               <item>WARRAND for Registrating Dispositions of Bankrupts Lands in the Books of Session; <hi>January 10. 1685. Ibid.</hi>
+               </item>
+               <pb facs="tcp:39845:14"/>
+               <item>ACT relating to the Sale of Bankrupts Lands, <hi>March 13. 1685. Pag 9.</hi>
+               </item>
+               <item>ACT in favours of the Under-Clerks, anent the payment of their Dues, where Commissions are granted, <hi>Novemb. 17. 1685. Ibid.</hi>
+               </item>
+               <item>ACT concerning Processes of <hi>Cessio Bonorum, December 1. 1685. Pag. 10</hi>
+               </item>
+               <item>ACT declaring the Clerk of the Bills lyable for the Parties Damnage, where he refuses a sufficient Cautioner, <hi>February 18. 1686. Ibid.</hi>
+               </item>
+               <item>ACT concerning the Order of the Lords going to the Side-Bar, and Re<g ref="char:EOLhyphen"/>porting of Causes, <hi>November 4. 1686. Ibid.</hi>
+               </item>
+               <item>Order anent Gratis Warrands, <hi>November 20. 1686. Pag. 11</hi>
+               </item>
+               <item>ACT anent the Ordering of the Inner-house, <hi>Decemb. 16. 1686. Ibid.</hi>
+               </item>
+               <item>ACT Impowering the Magistrats of <hi>Edinburgh</hi> to impose a Stent of <hi>500</hi> Pounds <hi>Sterling</hi> yearly, for cleansing the Town for three years, <hi>January 29. 1687. Pag. 12</hi>
+               </item>
+               <item>Sentence in Favours of the Members of the Colledge of Justice; against the Town of <hi>Edinburgh,</hi> declaring their Priviledges, <hi>February 23. 1687. Pag. 13</hi>
+               </item>
+               <item>ACT concerning Decreets conform, <hi>June 22. 1687. Pag. 14</hi>
+               </item>
+               <item>ACT discharging Decreets to be delete in the Minute-book, for not payment of the Macers dues, <hi>June 30. 1687, Pag. 15</hi>
+               </item>
+               <item>ACT for inserting all the Defenders names in the Minut-book, <hi>Decemb. 10. 1687. Ibid.</hi>
+               </item>
+               <item>The <hi>formula</hi> of the Oath in a <hi>Cessio Bonorum, February 8. 1688. Ibid.</hi>
+               </item>
+               <item>ACT concerning Oaths in Exhibitions, <hi>February 22. 1688. Pag. 16</hi>
+               </item>
+               <item>ACT concerning Bills of Suspension, where the Reason is referred to the Chargers Oath, <hi>February 29 1688. Ibid.</hi>
+               </item>
+               <item>ACT concerning the trial of Advocats, who enter upon a Bill to the Lords, <hi>July 6. 1688. Ibid.</hi>
+               </item>
+               <item>ACT for marking the names of the Witnesses Examined upon the Act, <hi>Ju<g ref="char:EOLhyphen"/>ly 7. 1688. Pag. 17</hi>
+               </item>
+               <item>ACT concerning the Habite of Dyvours, <hi>July 18. 1688. Ibid.</hi>
+               </item>
+               <item>ACT concerning Nottars, <hi>July 21. 1688. Ibid.</hi>
+               </item>
+               <item>ACT anent the calling of Transferrings, <hi>July 26. 1688. Ibid.</hi>
+               </item>
+               <item>ACT concerning Summons of Wakening, <hi>November 6. 1689. Pag. 18</hi>
+               </item>
+               <item>ACT concerning Declinators proponed against the Ordinary in the Outer-house, <hi>December 14. 1689 Pag. 19</hi>
+               </item>
+               <item>Additional Act concerning the Order of the Side-Bar, and Reporting of Causes, <hi>January 16. 1690. Ibid.</hi>
+               </item>
+               <item>ACT concerning Aliments, and Factors being lyable for Annualrent, <hi>Ju<g ref="char:EOLhyphen"/>ly 31. 1690. Ibid.</hi>
+               </item>
+               <item>
+                  <hi>ACT</hi> for keeping the Innermost Bar of the Outer-house, <hi>November 6. 1690. Pag. 20</hi>
+               </item>
+               <item>
+                  <hi>ACT</hi> concerning the stopping of Decreets, and hearing the Cause thereaf<g ref="char:EOLhyphen"/>ter, <hi>November 7. 1690 Ibid.</hi>
+               </item>
+               <item>ORDER for Printing the Acts against Solicitation, and Observing of the same, <hi>Movember 11. 1690. Pag. 21</hi>
+               </item>
+               <item>
+                  <hi>ACT</hi> concerning the manner of delivering Informations to the Lords, <hi>November 29. 1690. Ibid.</hi>
+               </item>
+               <item>
+                  <hi>ACT</hi> concerning the time of Signing Interloquitors, <hi>December 13. 1690. Pag. 22</hi>
+               </item>
+               <item>
+                  <hi>ACT</hi> ordaining Processes to be delete, where the Pursuer doth not insist, <hi>December 20. 1690. Ibid.</hi>
+               </item>
+               <pb facs="tcp:39845:14"/>
+               <item>
+                  <hi>ACT</hi> anent the Collecting of the Macers Dues for Decreets, <hi>December 31. 1690. Pag. 22.</hi>
+               </item>
+               <item>ORDER concerning the time of putting Informations in the Boxes, <hi>June 2. 1691. Pag. 23</hi>
+               </item>
+               <item>
+                  <hi>ACT</hi> appointing a List to be affixed on the Wall, of Causes to be called at the Side-Bar, <hi>June 10. 1691. Ibid.</hi>
+               </item>
+               <item>
+                  <hi>ACT</hi> allowing the Ordinary for the Outer-house, to call Causes on the Bench the Week after he is Ordinary, <hi>July 7. 1691. Ibid.</hi>
+               </item>
+               <item>
+                  <hi>ACT</hi> Ordaining Letters under the Signet, to be Subscribed at the Juncture of the Sheets, <hi>July 8. 1691. Pag. 24</hi>
+               </item>
+               <item>
+                  <hi>Addition</hi> to the <hi>Formula</hi> of the Oath in a <hi>Cessio Bonorum, July 18. 1691. Ibid.</hi>
+               </item>
+               <item>
+                  <hi>ACT</hi> concerning the tryal of Nottars, <hi>July 30. 1691: Ibid.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
